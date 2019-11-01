@@ -10,5 +10,7 @@ This repository includes the datasets used for validation of the EPP FPV and Gia
 6. GBS_correlation script: table with correlation coefficients of simulation vs. realflight for the GBS 
 
 EPP FPV: https://hobbyking.com/en_us/epp-fpv-1-8m-x-large-epp-carbon-fiber-r-c-plane.html?___store=en_us
+
 GBS: http://www.greatplanes.com/airplanes/gpma1224.php
+
 Information and documented context for validation (GBS only): https://www.mdpi.com/2504-446X/3/2/48
